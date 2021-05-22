@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PathFinder</string>
+    <string name="url">http://15.164.164.165:3000</string>
+</resources>
